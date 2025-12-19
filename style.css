@@ -1,0 +1,95 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.country-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.country-card {
+  text-decoration: none;
+  padding: 20px;
+  background: #f2f2f2;
+  text-align: center;
+  border-radius: 8px;
+  color: black;
+  font-weight: bold;
+}
+
+.country-card:hover {
+  background: #ddd;
+}
+
+.disclaimer {
+  color: red;
+  font-size: 14px;
+}
+h2{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  
+}
+     header{
+        font-size: 50px;
+        text-align: center;
+        font-weight: bold;
+        text-decoration: underline;
+        background-color: rgb(68, 63, 63);      
+}
+h1{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: underline;
+    margin-bottom: 5px;
+    font-size: 40px;
+}
+h2{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+    text-decoration: underline;
+    font-style: oblique ;
+}
+
+
+
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    font-style: oblique;   
+}
+body{
+    background-color: black;
+    color: white;
+    font-style: oblique;
+    font-family: Arial, sans-serif;
+      height: 100vh;
+}
+img{
+    width: 300px;
+    border-radius: 30px;
+}
+strong{
+  color: rgb(255, 255, 255);
+}
+ul{
+  color: white;
+}
+h1{
+  text-align: center;
+}
+h3{
+   margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+    text-decoration: underline;
+    font-style: oblique ;
+}
